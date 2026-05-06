@@ -1,0 +1,10 @@
+pandas 
+numpy #(Veri işleme)
+
+scikit-learn 
+xgboost #(Modelleme)  
+
+matplotlib 
+seaborn #(Görselleştirme)
+
+imbalanced-learn #(SMOTE için)

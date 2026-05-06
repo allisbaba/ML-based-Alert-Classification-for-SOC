@@ -1,0 +1,16 @@
+# Sanal ortam
+.venv/
+.env
+
+# Veri setleri (Burası çok kritik!)
+data/raw/
+data/processed/
+
+# VS Code ayarları ve geçici dosyalar
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Büyük CSV dosyalarını genel olarak engelle
+*.csv
