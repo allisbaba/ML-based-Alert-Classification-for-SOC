@@ -1,4 +1,3 @@
-# ML-based-Alert-Classification-for-SOC
 # Güvenlik Operasyon Merkezleri için Makine Öğrenimine Dayalı Otomatik Uyarı Sınıflandırması
 
 Bu proje, Ege Üniversitesi Fen Bilimleri Enstitüsü Bilgisayar Mühendisliği Anabilim Dalı bünyesinde, Siber Güvenlik Bilimi dersi kapsamında geliştirilmiştir. Projenin temel amacı, Siber Güvenlik Operasyon Merkezlerinde (SOC) görev yapan analistlerin en büyük problemlerinden biri olan "alarm yorgunluğunu" (alert fatigue) azaltmak amacıyla akıllı bir alarm triyaj ve önceliklendirme mekanizması kurmaktır.
